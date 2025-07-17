@@ -53,9 +53,10 @@
   <br/>
   
   ## 🤔 Github Stats
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=woowon-choi)](https://github.com/woowon/github-readme-stats)
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cwoowon_Github_Username)](https://github.com/anuraghazra/github-readme-stats)
+  
   <br/>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=woowon-choi)](https://github.com/woowon/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cwoowon_Github_username)](https://github.com/anuraghazra/github-readme-stats)
   
 </div>
 
